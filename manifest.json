@@ -1,0 +1,13 @@
+{
+    "display_name": "Chat Guard",
+    "loading_order": 1,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "GrayAegis",
+    "version": "0.1.0",
+    "homePage": "https://github.com/GrayAegis/ChatGuard",
+    "description": "Stops SillyTavern from saving a near-empty chat over a longer one after a failed load.",
+    "auto_update": false
+}

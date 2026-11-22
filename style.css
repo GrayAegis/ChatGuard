@@ -1,0 +1,23 @@
+#chat_guard_settings .chat-guard-log {
+    max-height: 12em;
+    overflow-y: auto;
+    margin: 0.5em 0 0;
+    padding: 0;
+    list-style: none;
+    font-size: 0.9em;
+    opacity: 0.85;
+}
+
+#chat_guard_settings .chat-guard-log li {
+    padding: 0.15em 0;
+}
+
+.chat-guard-popup {
+    text-align: left;
+}
+
+.chat-guard-popup .chat-guard-counts {
+    margin: 0.75em 0;
+    padding: 0.5em 0.75em;
+    border-left: 3px solid var(--SmartThemeQuoteColor, #e18a24);
+}
